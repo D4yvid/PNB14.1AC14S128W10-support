@@ -1,3 +1,5 @@
 git filter=lfs diff=lfs merge=lfs -text
 Drivers filter=lfs diff=lfs merge=lfs -text
 Drivers/**/* filter=lfs diff=lfs merge=lfs -text
+Linux/E8336[[:space:]]Topologies[[:space:]](Apollo[[:space:]]Lake) filter=lfs diff=lfs merge=lfs -text
+Linux/Kernel[[:space:]]6.12.57[[:space:]](LTS)..xz filter=lfs diff=lfs merge=lfs -text
